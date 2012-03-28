@@ -1,0 +1,44 @@
+# Visual Studio
+[Oo]bject/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+*.sln.cache
+*.csproj.user
+*.suo
+*.userprefs
+*.orig
+*.DotSettings.user
+
+# MongoDB
+Mongo/data/db/*
+
+# Resharper
+*[Rr]e[Ss]harper.user
+_ReSharper.*/
+*.dotCover
+*.TeamCity.user
+
+# VIM
+*~
+*.swp
+.README.md.swp
+*.orig
+
+# MarkDown
+*md~
+
+# NCrunch
+*.ncrunchsolution
+*.ncrunchproject
+
+# Test
+WebFeature/Test
+
+# NCrunch
+*.ncrunchproject
+*.ncrunchsolution
+
+#node
+node_modules
